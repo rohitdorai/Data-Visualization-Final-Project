@@ -10,6 +10,5 @@ seaborn
 plotly
 pandas
 sodapy
-string
 ipywidgets
-dabl.ploy
+dabl
