@@ -1,14 +1,13 @@
 geopandas
 contextily
-shapely.geometry
+shapely
 pandas
 folium
 numpy
-matplotlib.pyplot
+matplotlib
 datetime
-matplotlib.dates
 seaborn
-plotly.express
+plotly
 pandas
 sodapy
 string
